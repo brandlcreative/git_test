@@ -4,3 +4,16 @@ body {
 h1 {
     color: black;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    color: black;
+    display: inline;
+}
+li a{
+    color: black;
+    display: inline;
+}
